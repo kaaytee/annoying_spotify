@@ -2,9 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-env.py
+helper.py
 
-
+.cache
 # C extensions
 *.so
 
